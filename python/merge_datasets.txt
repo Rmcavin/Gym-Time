@@ -1,0 +1,8 @@
+Exercises for merging multiple datasets together. 
+
+1. Use argparse library to hold the paths to the datasets.
+2. Create a dictionary to hold multiple datasets.
+3. Remove excess white space in textfiles using regular expressions (re library)
+4. Create a function to get data from two text files and append one to another using a common key.
+5. Create a function to calculate a value (percent, difference, product, etc) based off of the two fields from the text files. 
+6. Determine if any lines in the data sets are missing (no key to match). 
