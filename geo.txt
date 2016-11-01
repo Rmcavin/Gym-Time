@@ -1,9 +1,13 @@
 Practice for GeoJSON
 
-1. Practice formatting data in the geoJSON basic structure for features. 
+1. Practice formatting data in the geoJSON basic structure for features.
 2. Practice with different geometries: Point, LineString, Polygon, MultiPoint, MultiLineString, and MultiPolygon.
 3. Experiment with manipulating geographic features using geoJSON at http://geojson.io/
 4. Use python to export data in a list into geoJSON
 5. import geoJSON into python for data processing
 6. import geoJSON into leaflet
 7. build a choropleth map in leaflet
+
+Practice with python argparse
+1. Write a python script that uses argparse to take user inputs.
+2. Write a python script that puts inputs into a dictionary. 
